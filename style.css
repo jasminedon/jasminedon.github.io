@@ -1,9 +1,5 @@
 * 
 html { 
 	background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 	font-family: "Roboto", sans-serif;
 }
