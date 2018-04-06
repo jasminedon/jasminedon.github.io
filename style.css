@@ -1,6 +1,6 @@
 * 
 html { 
-	background: url(images/bg.jpg) no-repeat center center fixed; 
+	background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
