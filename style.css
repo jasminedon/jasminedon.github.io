@@ -6,7 +6,7 @@ body {
 }
 
 .hero-gradient-lg {
-	height: 70vh;
+	height: 60vh;
 	width: 100vw;
 	background-image: linear-gradient(to right, #e0c3fc 0%, #8ec5fc 100%);
 	display: flex;
@@ -48,7 +48,6 @@ body {
 	font-family: "Roboto", sans-serif;
 	transform: translateY(-50%);
 	color: white;
-	font-weight: bold;
 }
 
 a {
@@ -104,6 +103,7 @@ ul {
 	margin-right: auto;
 	opacity: 0;
 	border-radius: 2px;
+	font-family: "Roboto", sans-serif;
 }
 
 .card > div.card-content {
