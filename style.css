@@ -20,7 +20,7 @@ body {
 	background-image: linear-gradient(to right, #e0c3fc 0%, #8ec5fc 100%);
 	display: flex;
 	flex-direction: column;
-	justify-content: center;	
+	justify-content: center;
 }
 
 .center-wrapper {
@@ -154,6 +154,10 @@ ul {
 
 ul, p {
 	line-height: 1.5;
+}
+
+.video-container {
+    text-align: center
 }
 
 .title > a {
