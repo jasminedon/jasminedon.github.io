@@ -164,3 +164,6 @@ ul, p {
 	color: inherit !important;
 	text-decoration: none;
 }
+.m-p-g {
+  overflow: auto;
+}
